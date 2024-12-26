@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon HTML bug. The bug involves incorrectly placing a closing div tag before a script that interacts with the div element.  The solution demonstrates the correct placement of tags to ensure proper functionality. This is a simple example, but similar issues can be hard to find in larger projects.
